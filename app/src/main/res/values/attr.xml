@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardViewDialog">
+        <attr name="titleCardDialog" format="string"/>
+        <attr name="messageCardDialog" format="string"/>
+        <attr name="titleButton" format="string"/>
+    </declare-styleable>
+</resources>
