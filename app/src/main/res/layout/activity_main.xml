@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <ar.com.customcardview.CustomCardView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:titleCardDialog="Title"
         app:messageCardDialog="Message or description"
